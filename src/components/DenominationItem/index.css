@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.button {
+  color: white;
+  width: 150px;
+  margin: 20px;
+  background-color: #c4c4c4;
+  height: 55px;
+  cursor: pointer;
+  font-size: 38px;
+}
